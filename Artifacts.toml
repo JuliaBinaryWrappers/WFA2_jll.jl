@@ -1,0 +1,127 @@
+[[WFA2]]
+arch = "aarch64"
+git-tree-sha1 = "a50d936ba31e552d80b29e3dbdb3eab2857c9d99"
+os = "macos"
+
+    [[WFA2.download]]
+    sha256 = "2c194c2f18007f77e7ce5005668bc08424d6bd814b572c02004d22d4cc0b88f7"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.aarch64-apple-darwin.tar.gz"
+[[WFA2]]
+arch = "aarch64"
+git-tree-sha1 = "13fa05f796dd45249bcc450da344dd8adcbe7d72"
+libc = "glibc"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "94b50163445331a2497999653e5021784864fe7782da594039e41d76aa046dcd"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.aarch64-linux-gnu.tar.gz"
+[[WFA2]]
+arch = "aarch64"
+git-tree-sha1 = "73f8235c7ab6a2b1ad147dfbdafdc91c34e7438c"
+libc = "musl"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "01a539d6d25088b02b39b7ce1fdfdccb5bdf136c147c25d644e7e93be36a492b"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.aarch64-linux-musl.tar.gz"
+[[WFA2]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e7f3d39bc24da5a2b74c234401769b953a5d110b"
+libc = "glibc"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "c80aecfed6681b4f391bd242bfd4e5372ccf5efdb5d7f08a17f60aaef5deb286"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.armv6l-linux-gnueabihf.tar.gz"
+[[WFA2]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "829e19a8cf141cce127489ba788df9e422b1f137"
+libc = "musl"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "b4d680f2e251be58ef7a69d8aab50c62b23c6a2221c623e848f3208a198c116a"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.armv6l-linux-musleabihf.tar.gz"
+[[WFA2]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c67137d8a3f1b1ab0ec808df79fb00503c62d1db"
+libc = "glibc"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "38f037dd2d5c9a0abeaa88b8b1c8049d4d4d6b4b0b0d4138ad86d837e2dd884a"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.armv7l-linux-gnueabihf.tar.gz"
+[[WFA2]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a03e896e214bcdd018c9af7ecdbf50f3de4a8805"
+libc = "musl"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "33c36b60615490b2ebf27c93192b4fdf276a5369914dbd193b7035c59bebca73"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.armv7l-linux-musleabihf.tar.gz"
+[[WFA2]]
+arch = "i686"
+git-tree-sha1 = "c2690d59b2a1f1083f13847b2ee917b15c44362e"
+libc = "glibc"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "072e9e565750e88afb83cc9c6004f24181d593764bd2cc8eb0c86f8e44237140"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.i686-linux-gnu.tar.gz"
+[[WFA2]]
+arch = "i686"
+git-tree-sha1 = "c5cd593e5d5fb24c47903d34e1427c1b4ed498b0"
+libc = "musl"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "58587510d1eb8bf81a07622e0ceb8f0293065ae0eeb0355cc31999c435639fb2"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.i686-linux-musl.tar.gz"
+[[WFA2]]
+arch = "powerpc64le"
+git-tree-sha1 = "73f19c7ffab77d4268dff8962b264525a1388f5b"
+libc = "glibc"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "4ade556a2d2420c486712eec2d883dbe7bf8edcaf4d87c484d4591f099f6caca"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.powerpc64le-linux-gnu.tar.gz"
+[[WFA2]]
+arch = "x86_64"
+git-tree-sha1 = "8163651b1bb040a5368f5cb01b1f3f81fe2165e3"
+os = "macos"
+
+    [[WFA2.download]]
+    sha256 = "d69b3bbbd8b2526745b68cc1bf26bae2f5711241c5c77950e38680bd35c0842d"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.x86_64-apple-darwin.tar.gz"
+[[WFA2]]
+arch = "x86_64"
+git-tree-sha1 = "b43aa82871551c65214204ec836a67b633fca99a"
+libc = "glibc"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "f795d4984a9f7a84f8f3897122c61e67a30d4eab5113b57d5559e18472667a02"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.x86_64-linux-gnu.tar.gz"
+[[WFA2]]
+arch = "x86_64"
+git-tree-sha1 = "be7f5e11b5d2c4717a20c740ad6909e35fff9182"
+libc = "musl"
+os = "linux"
+
+    [[WFA2.download]]
+    sha256 = "dd8774be3787886ff2d07fa03c9c89d99a3450ab4e3e4bb028b4847dbadcc6aa"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.x86_64-linux-musl.tar.gz"
+[[WFA2]]
+arch = "x86_64"
+git-tree-sha1 = "4bc9efa5bfb2e05e1a250619ac0eb1a57c92b1c8"
+os = "freebsd"
+
+    [[WFA2.download]]
+    sha256 = "d34227f0f4fa1e0f7d312cb6f365c63ab14c97ac319ede01a66f5b28faaa34f4"
+    url = "https://github.com/JuliaBinaryWrappers/WFA2_jll.jl/releases/download/WFA2-v2.3.3+0/WFA2.v2.3.3.x86_64-unknown-freebsd.tar.gz"
